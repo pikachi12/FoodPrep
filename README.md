@@ -4,4 +4,4 @@ FoodPrep adalah aplikasi inovatif yang dirancang untuk membantu pengguna merenca
 NAMA KELOMPOK 
 Anggota 1: Diah Ayu Rahmawati
 Anggota 2: Navika Berlianda R.
-Anggota 3: Tsabita Inayah
+Anggota 3: Tsabitah Inayah
